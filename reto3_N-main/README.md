@@ -7,9 +7,9 @@ Video: https://youtu.be/B3SfN_NcBjk
 Funcional con Android y Web
 
 
-![chat](https://i.imgur.com/Ymq5BYr.gif)
+![chat]
 
 Solución:
 
-https://github.com/MisionTIC4b/f_chat
+
 
